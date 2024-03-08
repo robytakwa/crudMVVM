@@ -1,0 +1,6 @@
+package com.danamon.robby.model.album
+
+/**
+ * All albums response from API
+ */
+class AllAlbumsResponse : ArrayList<AlbumItem>()

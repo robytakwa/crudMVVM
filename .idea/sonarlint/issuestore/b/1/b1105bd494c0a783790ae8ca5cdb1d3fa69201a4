@@ -1,0 +1,11 @@
+
+4kotlin:S6310""Avoid hardcoded dispatchers.(Åî”˜
+4kotlin:S6310'"Avoid hardcoded dispatchers.(ë¥“„
+4kotlin:S6310-"Avoid hardcoded dispatchers.(ë¥“„
+pkotlin:S6311""QRemove this dispatcher. It is pointless when used with only suspending functions.(Åî”˜8Ú©’âá1
+pkotlin:S6311'"QRemove this dispatcher. It is pointless when used with only suspending functions.(ë¥“„8Ú©’âá1
+pkotlin:S6311-"QRemove this dispatcher. It is pointless when used with only suspending functions.(ë¥“„8Û©’âá1
+]kotlin:S6313&"EClasses extending "ViewModel" should not expose suspending functions.(¾ê™ô
+bkotlin:S6313,"EClasses extending "ViewModel" should not expose suspending functions.(ïËŒäøÿÿÿÿ
+qkotlin:S63068"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(š£žŒúÿÿÿÿ
+qkotlin:S6306O"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(š£žŒúÿÿÿÿ
